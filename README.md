@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimu-71&label=Profile%20views&color=0e75b6&style=flat" alt="saimu-71" /> </p>
 
-- 🔭 I’m currently working on **Face Detection**
+- 🔭 I’m currently working on **Face Detection using Computer Vision**
 
 - 💬 Ask me about **Machine Learning, Computer Vision, Python**
 
