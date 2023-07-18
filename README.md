@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimu-71&label=Profile%20views&color=0e75b6&style=flat" alt="saimu-71" /> </p>
 
-- 🔭 I’m currently working on **Face Detection using Computer Vision**
+- 🔭 I’m currently working on **Dynamic Biometric Features for Digital Security System**
 
 - 💬 Ask me about **Machine Learning, Computer Vision, Python**
 
-- 📫 How to reach me **s1810677105@ru.ac.bd**
+- 📫 How to reach me **saimutanshen@gmail.com,s1810677105@ru.ac.bd**
 
 - ⚡ Fun fact **I am funny**
 
