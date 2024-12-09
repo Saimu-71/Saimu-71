@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Dynamic Biometric Features for Digital Security System**
 
-- 💬 Ask me about **Software Engineering, Machine Learning, Computer Vision, Python**
+- 💬 Ask me about **Software Engineering,Data Analysis, Data Science, Machine Learning, Computer Vision, Python**
 
 - 📫 How to reach me **saimutanshen@gmail.com,s1810677105@ru.ac.bd**
 
